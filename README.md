@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle error in Tcl file I/O: insufficient error handling.  The `bug.tcl` file contains a function that reads a file but provides poor error reporting.  The improved `bugSolution.tcl` version demonstrates best practices for robust file handling, enhancing clarity and preventing unexpected program crashes.
